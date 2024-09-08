@@ -259,7 +259,7 @@ Reference: TO 1C-17A-1 [Para. 7-176]
 
 ## T.O. 1C-17A-9
 
-When loading pallets with ramp toes installed, at what weight are struts required?
+33. When loading pallets with ramp toes installed, at what weight are struts required?
 a. 8,400
 b. 8,500
 c. 10,000
