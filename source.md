@@ -42,7 +42,7 @@ d. 60
 Answer: B
 Reference: TO 1C-17A-1 [Para. 3-30]
 
-6. Following an intentional cabin depressurization above 10,000 feet, the cabin must be repressurized to less than feet to reset the regulators. If the regulators are not reset, subsequent flight above 9,000 feet cabin altitude may deploy the passenger oxygen masks.
+6. Following an intentional cabin depressurization above 10,000 feet, the cabin must be repressurized to less than <span style="text-decoration: underline; white-space: pre;">                   </span> feet to reset the regulators. If the regulators are not reset, subsequent flight above 9,000 feet cabin altitude may deploy the passenger oxygen masks.
 a. 3,500
 b. 8,000
 c. 8,500
@@ -66,7 +66,7 @@ d. counter clockwise; 6
 Answer: C
 Reference: TO 1C-17A-1 [Para. 1-2442]
 
-9. If either the pilot’s or loadmaster’s FED ARM switch is in ARM, all four FEDS hatches can be deployed from either the initiator handles.
+9. If either the pilot’s or loadmaster’s FED ARM switch is in ARM, all four FEDS hatches can be deployed from either the <span style="text-decoration: underline; white-space: pre;">                   </span> initiator handles.
 a. pilots overhead panel or the aft left loadmaster station
 b. pilots overhead panel or the maintenance/ditching hatch
 c. forward loadmaster station or the aft left loadmaster station
