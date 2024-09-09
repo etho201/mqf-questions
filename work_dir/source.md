@@ -74,7 +74,7 @@ d. maintenance/ditching hatch or the forward loadmaster station
 Answer: D
 Reference: TO 1C-17A-1 [Para. 1-2460]
 
-10. Portable hand fire extinguishers are provided in the following areas: <span style="text-decoration: underline; white-space: pre;">                   </span> in the cockpit, in the crew rest area, and <span style="text-decoration: underline; white-space: pre;">                   </span> in the cargo compartment.
+10. Portable hand fire extinguishers are provided in the following areas: <span style="text-decoration: underline; white-space: pre;">                   </span> in the cockpit, <span style="text-decoration: underline; white-space: pre;">                   </span> in the crew rest area, and <span style="text-decoration: underline; white-space: pre;">                   </span> in the cargo compartment.
 a. 2; 1; 6
 b. 1; 2; 6
 c. 2; 0; 7
