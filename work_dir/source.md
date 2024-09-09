@@ -542,7 +542,7 @@ d. 2,500; 45
 Answer: D
 Reference: TO 1C-17A-9 [Para. 4C-24]
 
-70. When plywood barriers and chain bridles are installed for forward restraint on palletized cargo, pallets that exceed inches in <span style="text-decoration: underline; white-space: pre;">                   </span> height will have a minimum of <span style="text-decoration: underline; white-space: pre;">                   </span> bridle(s) installed and the minimum thickness for the barrier will be <span style="text-decoration: underline; white-space: pre;">                   </span> inches.
+70. When plywood barriers and chain bridles are installed for forward restraint on palletized cargo, pallets that exceed <span style="text-decoration: underline; white-space: pre;">                   </span> inches in height will have a minimum of <span style="text-decoration: underline; white-space: pre;">                   </span> bridle(s) installed and the minimum thickness for the barrier will be <span style="text-decoration: underline; white-space: pre;">                   </span> inches.
 a. 20; 1; 1/2
 b. 30; 2; 3/4
 c. 35; 3; 3/4
